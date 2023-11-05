@@ -14,8 +14,7 @@ To get started with this project, follow these steps:
 2. Install the required dependencies using npm:
    `npm install`
 
-### Usage
-To run the Todo List App, use the following command:
+3. To run the Todo List App, use the following command:
    `npm run dev`
 
-Happy coding! 🚀
+Happy coding mga ka MERNion! 🚀
